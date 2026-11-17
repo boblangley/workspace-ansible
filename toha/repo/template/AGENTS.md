@@ -6,4 +6,6 @@ This is the folder for working with {{org}}/{{repo}}
 ├── {{branch}}/      # The default branch worktree. Do not edit, only pull.
 └── worktrees/ # Worktrees for {{repo}}
 ```
+<!-- >>> toha:repo local instructions >>> -->
+<!-- <<< toha:repo local instructions <<< -->
 </{{repo}}-context-instructions>
