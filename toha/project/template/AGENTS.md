@@ -6,4 +6,6 @@
 ├── references/  # Project references for design or dependency knowledge/evaluation.
 └── tasks/       # Project tasks
 ```
+<!-- >>> toha:project local instructions >>> -->
+<!-- <<< toha:project local instructions <<< -->
 </{{project}}-context>
