@@ -4,4 +4,4 @@
 # Keep the generated project reference, archive and skill overlay instructions.
 !/archive/
 !/references/
-!/skills/
+!/.skills/
