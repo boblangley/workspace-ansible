@@ -1,6 +1,7 @@
 # Repositories and worktrees have their own Git history.
 /*/
 
-# Keep the generated project reference and archive instructions.
+# Keep the generated project reference, archive and skill overlay instructions.
 !/archive/
 !/references/
+!/skills/
