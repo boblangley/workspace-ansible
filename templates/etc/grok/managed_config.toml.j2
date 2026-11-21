@@ -5,6 +5,11 @@
 
 # Models come from Xolotl; the key is fetched through the Wyrwood vault socket on demand, by the same
 # helper family as Codex and Claude Code. Responses API, as Codex uses.
+[auth]
+auth_provider_command = "/usr/local/bin/xolotl-api-key"
+auth_provider_label = "Xolotl"
+auth_token_ttl = 3600
+
 [auth_provider.xolotl]
 command = "/usr/local/bin/xolotl-api-key"
 token_ttl_secs = 3600
